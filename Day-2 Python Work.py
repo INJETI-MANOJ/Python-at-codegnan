@@ -13,4 +13,4 @@ print('Module of two numbers', g)
 h = a // b
 print('Floor division of two numbers', h)
 i = a ** b
-print('Exponent of two numbers', i)
+print('Exponential of two numbers', i)
